@@ -9,7 +9,7 @@ Data Cleaning & Analysis - MySQL Workbench
 Data Visualization - PowerBI
 
 **Summary of Findings**
-*There are more male employees
+* There are more male employees
 *White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 *The youngest employee is 20 years old and the oldest is 57 years old
 *4 age groups were created (20-29, 30-39, 40-49, 50-59). A large number of employees were between 30-39 followed by 20-29 while the smallest group was 50-59.
